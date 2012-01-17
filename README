@@ -1,4 +1,4 @@
-DESCRIPTION : A short research about how to manage binary plugins in c++. I know, it's really messy here, and I don't give a shit.
+DESCRIPTION : A short research about how to manage binary plugins in c++. I know, it's really messy in here, but I don't give a shit. This is not a big project, just a little demo. Hence you might be able to compile and test the software without difficulty.
 
 LICENSE : Beerware
 
@@ -11,11 +11,11 @@ LICENSE : Beerware
 
 DEPENDENCIES (light version) :
 	 SFML-1.6 <http://sfml-dev.org>
-	You also must have a Unix system (loading .so might be more tricky on Windows I assume)
+	You also must have a Unix system (loading .so might be more tricky on Windows I assume...)
 	
-	If you want more information, you'll find at the very bottom of this file every libraries highlighted by the ldd command on the software.
+	If you want more information, you'll find at the very bottom of this file every libraries hightlighted by the ldd command on the software.
 
-COMPILATION : Use the Makefile.
+COMPILATION : Use the Makefile. (type "make" in the terminal)
 
 INSTALLATION : None, why would you do that?
 
